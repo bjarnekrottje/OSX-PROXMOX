@@ -40,7 +40,7 @@ fi
 
 apt install git -y >> /tmp/install-osx-proxmox.log 2>> /tmp/install-osx-proxmox.log
 
-git clone https://github.com/bjarnekrottje/OSX-PROXMOX.git >> /tmp/install-osx-proxmox.log 2>> /tmp/install-osx-proxmox.log
+git clone https://github.com/bjarnekrottje/OSX-PROXMOX-fix.git >> /tmp/install-osx-proxmox.log 2>> /tmp/install-osx-proxmox.log
 
 if [ ! -e /root/OSX-PROXMOX ]; then mkdir -p /root/OSX-PROXMOX; fi;
 
