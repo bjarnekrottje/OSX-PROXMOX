@@ -2,10 +2,10 @@
   
 # 🚀 OSX-PROXMOX - Run macOS on ANY Computer (AMD & Intel)
 
-![GitHub stars](https://img.shields.io/github/stars/bjarnekrottje/OSX-PROXMOX-fix?style=flat-square)
-![GitHub forks](https://img.shields.io/github/forks/bjarnekrottje/OSX-PROXMOX-fix?style=flat-square)
-![GitHub license](https://img.shields.io/github/license/bjarnekrottje/OSX-PROXMOX-fix?style=flat-square)
-![GitHub issues](https://img.shields.io/github/issues/bjarnekrottje/OSX-PROXMOX-fix?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/bjarnekrottje/OSX-PROXMOX?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/bjarnekrottje/OSX-PROXMOX?style=flat-square)
+![GitHub license](https://img.shields.io/github/license/bjarnekrottje/OSX-PROXMOX?style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues/bjarnekrottje/OSX-PROXMOX?style=flat-square)
 
 </div>
 
