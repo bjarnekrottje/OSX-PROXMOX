@@ -1779,7 +1779,7 @@ do
 
 		cd /var/lib/vz/template/iso/ > ${LOGFILE} 2>> ${LOGFILE}
 		rm -f opencore-osx-proxmox-vm.iso >> ${LOGFILE} 2>> ${LOGFILE}
-		wget https://github.com/luchina-gabriel/OSX-PROXMOX/raw/main/EFI/opencore-osx-proxmox-vm.iso >> ${LOGFILE} 2>> ${LOGFILE}
+		wget https://github.com/bjarnekrottje/OSX-PROXMOX/raw/main/EFI/opencore-osx-proxmox-vm.iso >> ${LOGFILE} 2>> ${LOGFILE}
 		cd ~
 
 		echo "Please wait ..."
